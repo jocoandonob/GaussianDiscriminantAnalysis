@@ -1,7 +1,7 @@
 
 # Gaussian Discriminant Analysis with Joco
 
-<img src="./thumbnail.png" alt="Thumbnail" width="200" />
+<img src="./thumbnail.png" alt="Thumbnail" width="1200" />
 
 This project implements Gaussian Discriminant Analysis (GDA) (or Gaussian Naive Bayes) for classification tasks. It uses a generative model (Gaussian) to model the distribution of the features (x) given the class (y) (i.e. \( p(x|y) \)) and then uses Bayes' theorem to compute the posterior (i.e. \( p(y|x) \)) for classification.
 
