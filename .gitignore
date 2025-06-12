@@ -1,0 +1,28 @@
+# Python bytecode (__pycache__)
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging (build, dist, egg, etc.)
+build/
+dist/
+*.egg-info/
+
+# Virtual environments (e.g. venv, .venv, env, .env)
+venv/
+.venv/
+env/
+.env
+
+# IDE (e.g. VSCode, PyCharm) settings
+.vscode/
+.idea/
+
+# OS (e.g. macOS, Windows) generated files
+.DS_Store
+Thumbs.db
+
+# (Optional) Local configuration (e.g. .env.local, .env.development.local)
+*.local
+
+# (Optional) Jupyter Notebook (if used)
+.ipynb_checkpoints
